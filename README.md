@@ -2,15 +2,35 @@
 
 A new Flutter project.
 
-## Getting Started
+# ICP Lite Clone – Flutter UI
 
-This project is a starting point for a Flutter application.
+A lightweight Flutter UI clone of the UAE's ICP (Identity & Citizenship Portal) app. Includes:
 
-A few resources to get you started if this is your first Flutter project:
+- Login Page  
+- Signup Page  
+- Dashboard Screen  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 🔐 **Fixed Demo Password**: `11223344`  
+> No backend – screens are static or mock logic only.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+- Flutter
+- Dart
+
+## 📦 Download
+
+You can find the release APK here:
+
+➡️ [`release/ICP-Lite-Clone.apk`](release/ICP-Lite-Clone.apk)
+
+> Install it on an Android device with:
+> `adb install ICP-Lite-Clone.apk`
+
+
+## 🚫 Disclaimer
+This is a **demo UI clone** created for **educational and non-commercial purposes**. It does not replicate any actual services or data.
+
+## 📷 Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
